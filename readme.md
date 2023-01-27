@@ -20,15 +20,13 @@ If you found my work useful for any of your projects, please make some donations
 ## Example
 * I have traits like this:
 ```
-    { "trait_type": "Body_1", "value": "Hoodie" },
-    { "trait_type": "Body_2", "value": "Shirt" },
-    { "trait_type": "Body_3", "value": "Closed Hoodie" },
+    { "trait_type": "Body_1"},
+    { "trait_type": "Body_2"},
+    { "trait_type": "Body_3"},
 ```
 * Want to simplify to be:
 ```
-    { "trait_type": "Body", "value": "Hoodie" },
-    { "trait_type": "Body", "value": "Shirt" },
-    { "trait_type": "Body", "value": "Closed Hoodie" },
+    { "trait_type": "Body"},
 ```
 ## Execution
 
