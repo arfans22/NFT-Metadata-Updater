@@ -7,7 +7,9 @@ I use it for my own project called Movin Frens to simplify from 82 properties in
 If you found my work useful for any of your projects, please make some donations to support me. I would really appreaciate that.
 
 **Metamask address**: 0x33EDC2CE3B7CA2dd2CE61CFB1cF7D82e6de0edA7
+
 **Twitter**: https://twitter.com/arfarfans
+
 **Discord Username**: amos#9036
 
 ## Feature
