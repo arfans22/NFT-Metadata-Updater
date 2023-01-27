@@ -2,7 +2,7 @@
 
 ## Introduction
 This an NFT Metadata updater & merger allow you to add, replace, and remove traits using node js.
-I use it for my own project called Movin Frens to simplify from 82 properties into just 9.
+I use it for my own project called [Movin Frens NFT](https://twitter.com/movinfrens) to simplify from 82 properties into just 9.
 
 If you found my work useful for any of your projects, please make some donations to support me. I would really appreaciate that.
 
