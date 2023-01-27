@@ -33,18 +33,19 @@ If you found my work useful for any of your projects, please make some donations
 ## Execution
 
 ```node _update.js``` to updating your metadata
-```node _merger.js``` to merge the whole metadata into 1 file called _metadata.json
+```node _merge.js``` to merge the whole metadata into 1 file called _metadata.json
 
 ## You can copy and paste for bulk update:
 
 ```
-if (attribute.trait_type === 'Backgound_1') {
+      if (attribute.trait_type === 'Props1') {
         attribute.trait_type = 'Background';
       }
-if (attribute.trait_type === 'Backgound_1') {
-        attribute.trait_type = 'Background';
+      if (attribute.trait_type === 'Props2') {
+        attribute.trait_type = 'Skin';
       }
-if (attribute.trait_type === 'Backgound_1') {
-        attribute.trait_type = 'Background';
+      if (attribute.trait_type === 'Props3') {
+        attribute.trait_type = 'Skin';
       }
+      
  ```
